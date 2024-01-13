@@ -13,9 +13,6 @@ i'm currently working on my own projects.<br>im looking to collaborate with othe
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Camilo4112&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo4112&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Camilo4112&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
